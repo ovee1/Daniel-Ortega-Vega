@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logoUtng.jpg" width="400"/>
+  <img src="/instrumento/logoUtng.jpg" width="400"/>  
 </p>
 
 # Universidad Tecnológica del Norte de Guanajuato
@@ -178,7 +178,7 @@ sudo docker run hello-world
 ```
 
 <p align="center">
-  <img src="./hello-world.png" width="700"/>
+  <img src="instrumento/hello-world.png" width="700"/>
 </p>
 
 #### Ejecución del Archivo YML y Verificación de Contenedores
@@ -190,7 +190,7 @@ sudo docker ps -a
 ```
 
 <p align="center">
-  <img src="./docker-ps.png" width="700"/>
+  <img src="instrumento/docker-ps.png" width="700"/>
 </p>
 
 ---
